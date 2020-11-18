@@ -8,6 +8,7 @@ public class BirinciGun {
 		System.out.println("03:27 - ikinci Gun");
 		System.out.println("03:50 - ikinci Gun");
 		System.out.println("04:00 - ikinci Gun");
+		System.out.println("04:10 - ikinci Gun");
 	}
 
 }
